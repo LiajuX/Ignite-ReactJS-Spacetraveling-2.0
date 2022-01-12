@@ -1,0 +1,22 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 3.625rem;
+
+  margin-top: 5.5rem;
+  border-radius: 4px;
+
+  background-color: var(--white);
+  color: var(--grey-900);
+
+  font-size: 1.125rem;
+  font-weight: 600;
+
+  transition: all 0.2s;
+
+  &:hover {
+    filter: brightness(0.8);
+  }
+}
