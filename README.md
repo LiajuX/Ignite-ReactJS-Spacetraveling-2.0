@@ -59,7 +59,7 @@ Developed with ReactJS, Next.js, TypeScript, and Prismic.
 
 ## 🏁 Starting the project:
 
-Clone the project: `git clone https://github.com/LiajuX/Ignite-ReactJS-RocketShoes`
+Clone the project: `git clone https://github.com/LiajuX/Ignite-ReactJS-Spacetraveling-2.0`
 
 ❗ **NOTE:** If you don't have yarn installed, use npm instead.
 
